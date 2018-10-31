@@ -127,7 +127,7 @@ The URI of the linked sub-entity.  Required.
 
 ##### `type`
 
-Defines media type of the linked sub-entity, per [Web Linking (RFC5988)](http://tools.ietf.org/html/rfc5988).  Optional.
+Defines media type of the linked sub-entity, per [Media Type Specifications and Registration Procedures (RFC4288)](https://tools.ietf.org/html/rfc4288).  Optional.
 
 ##### `title`
 Descriptive text about the entity.  Optional.
@@ -168,7 +168,7 @@ Text describing the nature of a link.  Optional.
 
 ### `type`
 
-Defines media type of the linked resource, per [Web Linking (RFC5988)](http://tools.ietf.org/html/rfc5988).  Optional.
+Defines media type of the linked resource, per [Media Type Specifications and Registration Procedures (RFC4288)](http://tools.ietf.org/html/rfc4288).  Optional.
 
 ## Actions
 
